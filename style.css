@@ -1,9 +1,10 @@
 h1 {
     color: green;
-    margin-left: 36px;
-    font-size: 68px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 100px;
 }
 p {
     color: red;
-    font-size:36px;
+    font-size:50px;
 }
